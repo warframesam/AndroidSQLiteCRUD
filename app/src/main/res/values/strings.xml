@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidSQLiteCRUD</string>
+    <string name="create_table">CREATE TABLE</string>
+    <string name="name">NAME</string>
+    <string name="insert">INSERT</string>
+    <string name="read_table">READ TABLE</string>
+    <string name="id">ID</string>
+    <string name="new_name">NEW NAME</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+</resources>
